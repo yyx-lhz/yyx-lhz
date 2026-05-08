@@ -2,22 +2,16 @@
 
 ## About Me
 
+- 🎓 I am a Computer Science master’s student at the University of Sydney
 - 🌱 I’m currently learning **LLM Agent, Python, JavaScript and GitHub**
 - 🤖 I’m interested in **AI Agents, Large Language Models, Causal AI and Robotics**
 - 🧠 I like thinking about **Big Causal Models, Embodied AI and Brain-Computer Interfaces**
 - 💻 I’m building small projects to improve my coding skills
-- 📍 Currently based in Sydney / China
+- 📍 Currently based in Sydney
 - 📫 How to reach me: **yin883250@gmail.com**
 
 ---
 
-## My GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yyx-lhz&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yyx-lhz&layout=compact&theme=tokyonight)
-
----
 
 ## Skills I Am Learning
 
